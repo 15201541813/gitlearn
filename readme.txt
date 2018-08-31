@@ -1,3 +1,1 @@
-Crjfjfjajeating a new branch is quick
-asdfajfklajflj.
-asjj
+Creating a new branch is quick.
